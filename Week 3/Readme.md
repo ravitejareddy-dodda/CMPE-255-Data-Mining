@@ -1,5 +1,7 @@
 Part-A: Dataset EDA in colab using D3.js visualizations
+
 Part-B: Automated EDA on Haberman Survival Data set
+
 Part-C: Demonstrated apache beam in a colab including composite transform
 
 References:
