@@ -4,7 +4,7 @@ i) various scaling(normalization) techniques and data portability techniques (qu
 
 https://github.com/ravitejareddy-dodda/CMPE-255-Data-Mining/blob/main/4-1%20(i).ipynb
 
-ii) various feature subset selection techniques discussed in the class
+ii) various feature subset selection techniques
 
 https://github.com/ravitejareddy-dodda/CMPE-255-Data-Mining/blob/main/4-1%20(ii).ipynb
 
